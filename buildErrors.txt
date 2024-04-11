@@ -1,0 +1,4 @@
+1.// had an error while passing props to the video player 
+  // added those props as empty strings and optional in videoPlayer.tsx
+###2.in useCategoryInfinitScrolling.ts > data.data error has been cleared with if check  
+3.Home.tsx > corrected to  >import ContainerLayout from "../../layouts/ContainerLayout"; 
